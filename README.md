@@ -1,5 +1,5 @@
 # 🟢 Merge Two Sorted Lists
-**Problem link:** [Merge TWo Sorted List](https://leetcode.com/problems/merge-two-sorted-lists)
+**Problem link:** [Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists)
 
 **Difficulty:** Easy
 
